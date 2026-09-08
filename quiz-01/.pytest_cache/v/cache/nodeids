@@ -1,0 +1,4 @@
+[
+  "test_solution.py::test_add_numbers_basic",
+  "test_solution.py::test_add_numbers_negative"
+]
