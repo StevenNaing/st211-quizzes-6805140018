@@ -1,4 +1,7 @@
-python -m pytest test_solution.py
+p# Quiz 01 - Roman Numeral Testing
 
-## Sample Output
-2 passed in 0.03s
+This quiz implements and tests a Roman numeral converter using Python and pytest.
+
+Run: `python3 -m pytest test_solution.py`
+
+Sample output: `5 passed`
